@@ -1,7 +1,7 @@
 
 Book Store App (MERN Stack)
 -------------------------------------------------------------
-Complete project demo can be found here: https://drive.google.com/file/d/1AndsJ6Bpt5hAP9w6TEqzR4e8jdFbgGB6/view?usp=sharing
+Complete project demo can be found here: https://drive.google.com/file/d/1HDP5y6Fmrn2HOXCHeIeTZEXb37GXsOvT/view?usp=drive_link
 -------------------------------------------------------------
 Frontend Setup
 
